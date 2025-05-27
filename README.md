@@ -53,17 +53,11 @@ ONNX Runtime (si se usa .onnx)
 
 PIL, NumPy, Pandas
 
-
+---
 ## 🧪 Ejemplo de Inferencia
 
 ```bash
 python MobileNet_inference.py /ruta/a/imagenes
-
-
-
-📄 Licencia
-MIT © 2025 Alexander Tejada
-Repositorio creado como parte del Trabajo de Fin de Máster – Maestría en Big Data y Ciencia de Datos, VIU.
 
 
 
