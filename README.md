@@ -42,15 +42,6 @@ Este repositorio contiene el código completo del Trabajo de Fin de Máster (TFM
 
 
 ---
-## 🎯 Objetivos del Proyecto
-Entrenar y comparar modelos (MobileNetV2 vs. ResNet-50) para clasificación de enfermedades en hojas de tomate.
-
-Evaluar el rendimiento sobre datasets reales y externos.
-
-Optimizar modelos para inferencia eficiente en dispositivos con recursos limitados (Raspberry Pi 5).
-
-Proveer métricas cuantitativas para análisis de desempeño.
----
 ## 🛠️ Requisitos
 Python ≥ 3.8
 
@@ -62,7 +53,6 @@ ONNX Runtime (si se usa .onnx)
 
 PIL, NumPy, Pandas
 
----
 
 ## 🧪 Ejemplo de Inferencia
 
