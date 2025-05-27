@@ -1,4 +1,4 @@
-# TFM – Sistema para la Detección de Enfermedades en Hojas de Cultivo con Deep Learning
+# TFM – Sistema para la detección de enfermedades en hojas de cultivo mediante visión por computadora y Deep Learning: optimización y evaluación en Raspberry Pi
 
 Este repositorio contiene el código completo del Trabajo de Fin de Máster (TFM), centrado en la detección automática de enfermedades en hojas de cultivo mediante modelos de clasificación basados en visión por computadora. El sistema fue optimizado para ejecutarse en una **Raspberry Pi 5**, evaluando tanto imágenes reales de campo (tomate) como imágenes externas obtenidas desde Internet.
 
