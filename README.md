@@ -55,7 +55,7 @@ Evaluar el rendimiento sobre datasets reales y externos.
 Optimizar modelos para inferencia eficiente en dispositivos con recursos limitados (Raspberry Pi 5).
 
 Proveer métricas cuantitativas para análisis de desempeño.
-
+---
 ## 🛠️ Requisitos
 Python ≥ 3.8
 
@@ -67,7 +67,7 @@ ONNX Runtime (si se usa .onnx)
 
 PIL, NumPy, Pandas
 
-
+---
 📄 Licencia
 MIT © 2025 Alexander Tejada
 Repositorio creado como parte del Trabajo de Fin de Máster – Maestría en Big Data y Ciencia de Datos, VIU.
