@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 # === CONFIGURACIÓN ===
 directorio_imagenes = "/home/atejada/Descargas/test"
-modelo_path = "/home/atejada/Descargas/resnet50_traced.pt"
+modelo_path = "/home/atejada/Descargas/resnet50_optimized.pt"
 #UMBRAL_CONFIANZA = 0.70
 archivo_csv = "resultados_tomate.csv"
 archivo_pickle = "imagenes_info_tomate.pkl"
