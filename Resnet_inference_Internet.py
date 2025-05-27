@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 # === CONFIG ===
 test_dir    = "/home/atejada/Imágenes/testing"
-modelo_pt   = "resnet50_traced.pt"   # o "mobilenetv2_pi_traced.pt"
+modelo_pt   = "resnet50_optimized.pt"   # o "mobilenetv2_pi_traced.pt"
 output_csv  = "resultados_validacion_noOOD_resnet.csv"
 
 # === CLASES ENTRENADAS ===
