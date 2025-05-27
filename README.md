@@ -40,12 +40,7 @@ Este repositorio contiene el código completo del Trabajo de Fin de Máster (TFM
    - `ResNet_summary.py`  
    (Ambos procesan los CSV generados por los scripts de inferencia para calcular métricas de clasificación)
 
----
 
-## 🧪 Ejemplo de Inferencia
-
-```bash
-python MobileNet_inference.py /ruta/a/imagenes
 ---
 ## 🎯 Objetivos del Proyecto
 Entrenar y comparar modelos (MobileNetV2 vs. ResNet-50) para clasificación de enfermedades en hojas de tomate.
@@ -68,6 +63,14 @@ ONNX Runtime (si se usa .onnx)
 PIL, NumPy, Pandas
 
 ---
+
+## 🧪 Ejemplo de Inferencia
+
+```bash
+python MobileNet_inference.py /ruta/a/imagenes
+
+
+
 📄 Licencia
 MIT © 2025 Alexander Tejada
 Repositorio creado como parte del Trabajo de Fin de Máster – Maestría en Big Data y Ciencia de Datos, VIU.
