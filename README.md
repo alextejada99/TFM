@@ -39,3 +39,10 @@ Este repositorio contiene el código completo del Trabajo de Fin de Máster (TFM
    - `Mobilenetv2_summary.py`
    - `ResNet_summary.py`  
    (Ambos procesan los CSV generados por los scripts de inferencia para calcular métricas de clasificación)
+
+---
+
+## 🧪 Ejemplo de Inferencia
+
+```bash
+python MobileNet_inference.py /ruta/a/imagenes
